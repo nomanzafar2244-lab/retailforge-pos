@@ -1,0 +1,34 @@
+[
+  {
+    "sku": "MILK-001",
+    "name": "Fresh Milk 1L",
+    "category": "Dairy",
+    "price": 2.49,
+    "stock": 42,
+    "reorder_level": 10
+  },
+  {
+    "sku": "BREAD-001",
+    "name": "Whole Wheat Bread",
+    "category": "Bakery",
+    "price": 1.99,
+    "stock": 25,
+    "reorder_level": 8
+  },
+  {
+    "sku": "RICE-005",
+    "name": "Basmati Rice 5kg",
+    "category": "Grocery",
+    "price": 12.99,
+    "stock": 18,
+    "reorder_level": 5
+  },
+  {
+    "sku": "SOAP-002",
+    "name": "Hand Soap 250ml",
+    "category": "Household",
+    "price": 3.49,
+    "stock": 30,
+    "reorder_level": 7
+  }
+]

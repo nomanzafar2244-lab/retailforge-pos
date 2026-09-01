@@ -1,0 +1,45 @@
+# __pycache__/
+# *.py[cod]
+# .venv/
+# .env
+# .env.*
+# !.env.example
+# .pytest_cache/
+# .coverage
+# dist/
+# build/
+# *.db
+# *.sqlite3
+# node_modules/
+# frontend/dist/
+# models/*.joblib
+# .DS_Store
+# .idea/
+# .vscode/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+*.db
+*.sqlite3
+node_modules/
+frontend/dist/
+models/*.joblib
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+.DS_Store
+.idea/
+.vscode/
